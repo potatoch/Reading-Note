@@ -43,3 +43,4 @@
         context.moveTo(x0,y0);
         context.quardraticCurveTo(x1,y1,x2,y2);
         //(x1,y1)是控制点，(x2,y2)是重点
+
